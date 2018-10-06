@@ -1,9 +1,9 @@
             .'\   /`.
-             .'.-.`-'.-.`.
-        ..._:   .-. .-.   :_...
-      .'    '-.(o ) (o ).-'    `.
-     :  _    _ _`~(_)~`_ _    _  :
-    :  /:   ' .-=_   _=-. `   ;\  :
+             .'.-.`-'.-.`.              _______  
+        ..._:   .-. .-.   :_...        (By M-K3)
+      .'    '-.(o ) (o ).-'    `.      (  _____)
+     :  _    _ _`~(_)~`_ _    _  :     / / 
+    :  /:   ' .-=_   _=-. `   ;\  :   !/
     :   :|-.._  '     `  _..-|:   :
      :   `:| |`:-:-.-:-:'| |:'   :
       `.   `.| | | | | | |.'   .'
@@ -21,12 +21,17 @@ many accounts without any user interaction, including high-profile ones.
 
 ### How to install:
 * ```apt-get install tor ```
-* ```git clone https://github.com/Ha3MrX/InstaBrute ```
-* ```cd InstaBrute ```
+* ```git clone https://github.com/M-K3/instabuster ```
+* ```cd instabuster ```
 * ```chmod +x insta.sh ```
 * ```./insta.sh ```
 
 ---
 
-#### [Youtube Channel](https://youtube.com/c/cTheShadowBrokers)
-#### [Our Website](https://shadowbrokersblog.blogspot.com)
+███╗   ███╗      ██╗  ██╗██████╗ 
+████╗ ████║      ██║ ██╔╝╚════██╗
+██╔████╔██║█████╗█████╔╝  █████╔╝
+██║╚██╔╝██║╚════╝██╔═██╗  ╚═══██╗
+██║ ╚═╝ ██║      ██║  ██╗██████╔╝
+╚═╝     ╚═╝      ╚═╝  ╚═╝╚═════╝ 
+                                 
