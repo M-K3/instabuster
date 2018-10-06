@@ -28,7 +28,7 @@ many accounts without any user interaction, including high-profile ones.
 
 ---
 
-███╗   ███╗      ██╗  ██╗██████╗ 
+███╗   ███╗      ██╗  ██╗██████╗ 
 
 ████╗ ████║      ██║ ██╔╝╚════██╗
 
