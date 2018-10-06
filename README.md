@@ -24,7 +24,7 @@ many accounts without any user interaction, including high-profile ones.
 * ```apt-get install tor ```
 * ```git clone https://github.com/M-K3/instabuster ```
 * ```cd instabuster ```
-* ```chmod +x insta.sh ```
-* ```./insta.sh ```
+* ```chmod +x instabuster.sh ```
+* ```./instabuster.sh ```
 
 ---
